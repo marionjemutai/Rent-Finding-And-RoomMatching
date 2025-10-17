@@ -124,98 +124,146 @@ export default function Home() {
 
         {
             img: "https://plus.unsplash.com/premium_photo-1682096358356-5ffbe52b7aa1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+             title: "Monica",
+             desc: [40, "Female", "Profession", "Ruaka"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1589156288859-f0cb0d82b065?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Beryl",
+             desc: [20, "Female", "Student", "Kasarani"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Kevin",
+             desc: [30, "Male", "Profession", "Ruiru"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1521119989659-a83eee488004?q=80&w=723&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Brian",
+             desc: [32, "Male", "Profession", "Roysambu"]
         },
 
         {
             img: "https://plus.unsplash.com/premium_photo-1681880949962-44fd8757cf53?q=80&w=700&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Peter",
+             desc: [45, "Male", "Profession", "Garden City"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1492447166138-50c3889fccb1?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "John",
+             desc: [50, "Male", "Profession", "Pipeline"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1526510747491-58f928ec870f?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Alice",
+             desc: [22, "Female", "Student", "Ruiru"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1485893086445-ed75865251e0?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Grace",
+             desc: [19, "Female", "Student", "Ngara"]
         },
     
         {
             img: "https://plus.unsplash.com/premium_photo-1690587673708-d6ba8a1579a5?q=80&w=679&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Linda",
+             desc: [24, "Female", "Student", "Roysambu"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1544717305-2782549b5136?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "James",
+             desc: [20, "Male", "Student", "Ruiru"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1484972759836-b93f9ef2b293?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Martha",
+             desc: [40, " Female", "Profession", "[Pangani"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Olivia",
+             desc: [22, "Female", "Student", "Rongai"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1525186402429-b4ff38bedec6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Sophia",
+            desc: [21, "Female", "Student", "Rongai"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1519058082700-08a0b56da9b4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Michael",
+            desc: [34, "Male", "Profession", "Caren"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Rachel",
+            desc: [25, "Female", "Profession", "Roysambu"]
         },
         
         {
             img: "https://images.unsplash.com/photo-1632765854612-9b02b6ec2b15?q=80&w=686&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Diana",
+            desc: [20, "Female", "Student", "Rongai"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Tony",
+            desc: [27, "Male", "Profession", "Kasarani"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Kalvin",
+            desc: [28, "Male", "Profession", "Ruiru"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1484588168347-9d835bb09939?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Amira",
+            desc: [22, "Female", "Student", "Rongai"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Faith",
+            desc: [19, "Female", "Student", "Roysambu"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Daniel",
+            desc: [45, "Male", "Profession", "Miliani"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Karen",
+            desc: [22, "Female", "Student", "Karen"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1519419691348-3b3433c4c20e?q=80&w=626&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Winnie",
+            desc: [24, "Female", "Student", "Ruiru"]
         },
 
         {
             img: "https://images.unsplash.com/photo-1541130292430-a832637ddc0d?q=80&w=795&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            title: "Esther",
+            desc: [20, "Female", "Student", "Ruaka"]
         }
         
         
